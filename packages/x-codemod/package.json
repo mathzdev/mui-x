@@ -34,12 +34,12 @@
     "@babel/core": "^7.23.0",
     "@babel/runtime": "^7.23.1",
     "@babel/traverse": "^7.23.0",
-    "jscodeshift": "0.13.1",
+    "jscodeshift": "0.15.0",
     "jscodeshift-add-imports": "^1.0.10",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
-    "@types/jscodeshift": "^0.11.5"
+    "@types/jscodeshift": "^0.11.7"
   },
   "sideEffects": false,
   "publishConfig": {
